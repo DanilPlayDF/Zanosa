@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал
 http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал HD
@@ -19,7 +19,6 @@ http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_5TV.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIAK.m3u8
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIAK_7.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия РТР (СНГ)
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIARTR_SNG.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
@@ -284,6 +283,12 @@ http://dmi3y-tv.ru/hls/okko/CH_DORAMA.m3u8
 http://dmi3y-tv.ru/hls/okko/CH_DORAMAHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Индия
 http://dmi3y-tv.ru/hls/CH_INDIYA.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Еврокино
+http://ucdn.beetv.kz:80/btv/live/hls/000000152.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Fox Life HD
+http://ucdn.beetv.kz:80/btv/live/hls/000004471.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Премиум кино
+http://ucdn.beetv.kz:80/btv/live/hls/000008491.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ИНДИЙСКОЕ КИНО
 http://dmi3y-tv.ru/hls/blrus/CH_INDIYSKOEKINO.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НАШЕ НОВОЕ КИНО
@@ -347,7 +352,7 @@ http://dmi3y-tv.ru/hls/blrus/CH_DIZI.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",dizi HD
 http://dmi3y-tv.ru/hls/blrus/CH_DIZIHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Дом кино
-http://dmi3y-tv.ru/hls/blrus/CH_DOMKINO.m3u8
+http://ucdn.beetv.kz:80/btv/live/hls/000000050.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Дом кино ПРЕМИУМ
 http://dmi3y-tv.ru/hls/blrus/CH_DOMKINO_PREMIUM.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Дом кино ПРЕМИУМ HD
@@ -522,6 +527,18 @@ http://dmi3y-tv.ru/hls/blrus/CH_PERETZ_INTERNATIONAL.m3u8
 http://dmi3y-tv.ru/hls/okko/CH_DISNEY.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Мультиландия
 http://dmi3y-tv.ru/hls/okko/CH_MULTILANDIYA.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Nick jr.
+http://ucdn.beetv.kz:80/btv/live/hls/000008575.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",NICK JR
+http://ucdn.beetv.kz:80/btv/live/hls/000000449.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",NICKELODEON
+http://ucdn.beetv.kz:80/btv/live/hls/000000499.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Nicktoons HD
+http://ucdn.beetv.kz:80/btv/live/hls/000004365.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",CARTOONITO
+http://ucdn.beetv.kz:80/btv/live/hls/000000160.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Cartoon Network
+http://ucdn.beetv.kz:80/btv/live/hls/000000015.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Мультиландия HD
 http://dmi3y-tv.ru/hls/okko/CH_MULTILANDIYAHD.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",СТС Kids
@@ -672,6 +689,10 @@ http://dmi3y-tv.ru/hls/CH_DIKAYAOHOTA.m3u8
 http://dmi3y-tv.ru/hls/CH_DIKAYAOHOTAHD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Дикая рыбалка
 http://dmi3y-tv.ru/hls/CH_DIKAYARYBALKA.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",РЫБАЛКА И ОХОТА
+http://ucdn.beetv.kz:80/btv/live/hls/000002510.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",КТО КУДА
+http://ucdn.beetv.kz:80/btv/live/hls/000001377.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Дикая рыбалка HD
 http://dmi3y-tv.ru/hls/CH_DIKAYARYBALKAHD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Доктор
@@ -970,4 +991,3 @@ http://dmi3y-tv.ru/hls/CH_GLAZAMITURISTA4KUHD.m3u8
 http://dmi3y-tv.ru/hls/CH_NASA4KHD.m3u8
 #EXTINF:-1 group-title="4К (UltraHD)",NASA 4K UHD
 http://dmi3y-tv.ru/hls/CH_NASA4KUHD.m3u8
-
