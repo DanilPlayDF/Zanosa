@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал
 http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал HD
