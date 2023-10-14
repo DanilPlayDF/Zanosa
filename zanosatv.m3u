@@ -292,43 +292,45 @@ http://ucdn.beetv.kz:80/btv/live/hls/000008491.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ИНДИЙСКОЕ КИНО
 http://dmi3y-tv.ru/hls/blrus/CH_INDIYSKOEKINO.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НАШЕ НОВОЕ КИНО
-http://dmi3y-tv.ru/hls/blrus/CH_NASHENOVOEKINO.m3u8
+http://dmi3y-tv.ru/hls/CH_NASHENOVOEKINO.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НАШЕ НОВОЕ КИНО HD
-http://dmi3y-tv.ru/hls/blrus/CH_NASHENOVOEKINOHD.m3u8
+http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9kMDhmNzJmYy1kZWE0LTRkZWUtYWY0Yy1jNDVmMWRiMTQ1MWYvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОМИКС
-http://dmi3y-tv.ru/hls/blrus/CH_KINOMIKS.m3u8
+http://dmi3y-tv.ru/hls/CH_KINOMIKS.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОМИКС HD
-http://dmi3y-tv.ru/hls/blrus/CH_KINOMIKSHD.m3u8
+http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9mZTgxZTMxYi1hMTcwLTRmMGUtOWE0Yy05MjFjOWE3Y2VkMjUvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОСЕРИЯ
-http://dmi3y-tv.ru/hls/blrus/CH_KINOSERIYA.m3u8
+http://dmi3y-tv.ru/hls/CH_KINOSERIYA.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОСЕРИЯ HD
-http://dmi3y-tv.ru/hls/blrus/CH_KINOSERIYAHD.m3u8
+http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy8zMDZmZTgyYy0yNDRhLTQ5MDgtOTA0OC1iN2ZiNWNkZTIxYzAvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОСЕМЬЯ
-http://dmi3y-tv.ru/hls/blrus/CH_KINOSEMYA.m3u8
+http://dmi3y-tv.ru/hls/CH_KINOSEMYA.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОСЕМЬЯ HD
-http://dmi3y-tv.ru/hls/blrus/CH_KINOSEMYAHD.m3u8
+http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9mNWQwZTQyYy1lMWM4LTRiYmMtYTBhNS0wMjBhZGVlNTQ1MmMvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОСВИДАНИЕ
-http://dmi3y-tv.ru/hls/blrus/CH_KINOSVIDANIE.m3u8
+http://dmi3y-tv.ru/hls/CH_KINOSVIDANIE.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОСВИДАНИЕ HD
-http://dmi3y-tv.ru/hls/blrus/CH_KINOSVIDANIEHD.m3u8
+http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy8wYTYzMjM0Yi01YjI3LTQ2YjctOWYyNy0yOTMyYTUzM2RjMjgvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОХИТ
-http://dmi3y-tv.ru/hls/blrus/CH_KINOHIT.m3u8
+http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9lZTc2YmQ0MS01ODE0LTQ5YTItODg5NC1hZWVmYTBiYTVlMTEvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОКОМЕДИЯ
-http://dmi3y-tv.ru/hls/blrus/CH_KINOKOMEDIYA.m3u8
+http://dmi3y-tv.ru/hls/CH_KINOKOMEDIYA.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОКОМЕДИЯ HD
-http://dmi3y-tv.ru/hls/blrus/CH_KINOKOMEDIYAHD.m3u8
+http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9mNTQwYWRiMS1kYzY0LTRiZTctYWY5Yi1kOGZlYzg5ZTFkZmMvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОПРЕМЬЕРА
-http://dmi3y-tv.ru/hls/blrus/CH_KINOPREMIERA.m3u8
+http://dmi3y-tv.ru/hls/CH_KINOPREMIERA.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОПРЕМЬЕРА HD
-http://dmi3y-tv.ru/hls/blrus/CH_KINOPREMIERAHD.m3u8
+http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9kMmRkZTNhZS1iOGU1LTQ0YmQtYTAzMi0zZjA5Mjk3ODgwMjEvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",МУЖСКОЕ КИНО
-http://dmi3y-tv.ru/hls/blrus/CH_MUZHSKOEKINO.m3u8
+http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9jZmI1MWQwMC1kMTZjLTQyZDItOGY0OS0xNDZkNDdiOGM3MjAvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",РОДНОЕ КИНО
-http://dmi3y-tv.ru/hls/blrus/CH_RODNOEKINO.m3u8
+http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9jN2JjNmI2Yi0yNjc3LTQ4M2YtYmY2MS0wN2NiZDE4MTYzNGQvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОУЖАС
 http://dmi3y-tv.ru/hls/CH_KINOUZHAS.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Мосфильм Золотая коллекция
 http://dmi3y-tv.ru/hls/CH_MOSFILM.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Мосфильм Золотая коллекция HD
+http://dmi3y-tv.ru/hls/CH_MOSFILMHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Победа
 http://dmi3y-tv.ru/hls/CH_POBEDA.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Победа HD
