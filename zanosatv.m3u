@@ -390,7 +390,7 @@ http://dmi3y-tv.ru/hls/CH_KIHOTVHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Любимое кино
 http://dmi3y-tv.ru/hls/CH_LUBIMOEKINO.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НСТ
-http://dmi3y-tv.ru/hls/blrus/CH_HCT.m3u8
+http://ucdn.beetv.kz:80/btv/live/hls/000000078.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ОКИНО
 http://dmi3y-tv.ru/hls/CH_OKIHO.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",PRO100
