@@ -722,7 +722,7 @@ http://dmi3y-tv.ru/hls/CH_PROBIZNES.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Рыболов
 http://dmi3y-tv.ru/hls/CH_PYBOLOV.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Travel+Adventure
-http://dmi3y-tv.ru/hls/blrus/CH_TRAVELPLUSADVENTURE.m3u8
+http://tbs01-edge11.itdc.ge/viasatnat/video.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Travel+Adventure HD
 http://dmi3y-tv.ru/hls/blrus/CH_TRAVELPLUSADVENTUREHD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Загородная жизнь
@@ -770,7 +770,7 @@ http://dmi3y-tv.ru/hls/blrus/CH_ANIMALPLANET.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Animal Planet HD
 http://dmi3y-tv.ru/hls/blrus/CH_ANIMALPLANETHD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Discovery Channel
-http://dmi3y-tv.ru/hls/blrus/CH_DISCOVERYCHANNEL.m3u8
+http://ucdn.beetv.kz:80/btv/live/hls/000001496.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Неизвестная планета
 http://dmi3y-tv.ru/hls/blrus/CH_UNKNOWN_PLANET.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ПСИХОЛОГИЯ
