@@ -290,7 +290,7 @@ http://ucdn.beetv.kz:80/btv/live/hls/000004471.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Премиум кино
 http://ucdn.beetv.kz:80/btv/live/hls/000008491.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ИНДИЙСКОЕ КИНО
-http://dmi3y-tv.ru/hls/blrus/CH_INDIYSKOEKINO.m3u8
+http://tbs01-edge11.itdc.ge/indiyskoekino/video.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НАШЕ НОВОЕ КИНО
 http://dmi3y-tv.ru/hls/CH_NASHENOVOEKINO.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НАШЕ НОВОЕ КИНО HD
@@ -360,7 +360,7 @@ http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50d
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Дом кино ПРЕМИУМ HD
 http://dmi3y-tv.ru/hls/CH_DOMKINO_PREMIUMHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ЕВРОКИНО
-http://dmi3y-tv.ru/hls/blrus/CH_EVROKINO.m3u8
+http://tbs01-edge11.itdc.ge/eurokino/video.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",FlixSnip
 http://dmi3y-tv.ru/hls/CH_FLIXSNIP.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ХИТ
