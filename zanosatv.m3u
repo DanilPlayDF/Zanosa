@@ -491,8 +491,6 @@ https://v2.catcast.tv/content/38792/index.m3u8
 https://v2.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ", KINDER TV
 https://v2.catcast.tv/content/38144/index.m3u8
-#EXTINF:-1 group-title="ОБЩИЕ", BAMBARBIA TV HD
-http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
 #EXTINF:-1 group-title="ОБЩИЕ", 360°
 https://video1.in-news.ru/360/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ", BIG BUCK BUNNY HD
