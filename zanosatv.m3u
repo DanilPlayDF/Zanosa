@@ -23,6 +23,8 @@ https://sc.id-tv.kz/1hd_34_35.m3u8
 https://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
 #EXTINF:-1 group-title="ОБЩИЕ", ДОМАШНИЙ
 https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8
+#EXTINF:-1 group-title="ОБЩИЕ",СТС HD
+http://dmitry-tv.ddns.net/hls/okko/CH_STSHD.m3u8
 #EXTINF:-1 group-title="ОБЩИЕ", МИР
 https://okkotv-live.cdnvideo.ru/channel/Mir_OTT.m3u8
 #EXTINF:-1 group-title="ОБЩИЕ", VIASAT NATURE
@@ -561,8 +563,6 @@ http://ucdn.beetv.kz:80/btv/live/hls/000004471.m3u8
 http://ucdn.beetv.kz:80/btv/live/hls/000008491.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ",AMEDIA PREMIUM HD (auto)
 http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
-#EXTINF:-1 group-title="ОБЩИЕ",СТС HD
-http://dmitry-tv.ddns.net/hls/okko/CH_STSHD.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ", ViP-PREMIERE-HD, 
 http://dmitry-tv.ddns.net/hls/okko/CH_ViPPREMIEREHD.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ", ViP-MEGAHIT-HD, 
