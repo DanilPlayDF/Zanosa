@@ -76,7 +76,7 @@ http://212.98.171.116/HLS/ctvby/playlist.m3u8
 #EXTINF:-1 group-title="ОБЩИЕ", T+
 http://213.108.175.226/telplushd/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ" ,КИНОУЖАС
-http://213.226.137.133:81/tl/l415/mpegts
+http://tbs01-edge11.itdc.ge/kinoujas/video.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ", УНИКУМ
 http://46.174.83.66/Unikum/mpegts
 #EXTINF:-1 group-title="МУЗЫКА", ЯТБ
