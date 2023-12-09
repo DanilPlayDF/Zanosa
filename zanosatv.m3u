@@ -173,10 +173,10 @@ http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdlow.m3u8
 http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="МУЗЫКА", DEEJAY TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1 group-title="ОБЩИЕ", TV 1000 ACTION FHD
-http://dmitry-tv.ml/hls/CH_TV1000ACTIONHD.m3u8
+#EXTINF:-1 group-title="ОБЩИЕ", TV 1000 ACTION HD
+http://dmi3y-tv.ru/hls/okko/CH_TV1000ACTIONHD.m3u8
 #EXTINF:-1 group-title="ОБЩИЕ", TV 1000 HD
-http://dmitry-tv.ml/hls/CH_TV1000HD.m3u8
+http://dmi3y-tv.ru/hls/okko/CH_TV1000HD.m3u8
 #EXTINF:-1 group-title="МУЗЫКА", РАДИО ХИТ (ОРСК)
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 group-title="ОБЩИЕ", ИЗВЕСТИЯ
