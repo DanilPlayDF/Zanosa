@@ -64,9 +64,9 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ HD
 http://dmi3y-tv.ru/hls/okko/CH_TNTHD.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Че!
-http://dmi3y-tv.ru/hls/zabava/CH_CHE.m3u8
+http://81.177.197.13:8000/play/a00j/video.m3u8?token1=96d9a62bc619079db307c8fd067a1ab9
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Че! (okko)
+https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Ю
 http://dmi3y-tv.ru/hls/zabava/CH_U.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ",Viasat Sport
@@ -221,6 +221,24 @@ http:\\31.148.48.15:80\Dom_Kino\index.m3u8?token=test
 http:\\195.26.83.96:7022\play\a00u\index.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НСТ (Билайн)
 http://ucdn.beetv.kz:80/btv/live/hls/000000078.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", КИНОПОКАЗ
+http://178.163.14.83:4022/udp/234.0.0.209:2000
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", КИНОХИТ
+http://185.129.1.242:80/kinoxit/mpegts
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", КИНОСВИДАНИЕ
+http://94.154.83.88:10000/kinosvidanie
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", КИНОСВИДАНИЕ HD
+https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", КИНОПРЕМЬЕРА FHD
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", КИНОКОМЕДИЯ
+https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", КИНОМИКС HD
+https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", КИНОСЕМЬЯ FHD
+https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", КИНОХИТ
+https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2
 http://dmi3y-tv.ru/hls/zabava/CH_2X2.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2 HD720
@@ -241,8 +259,6 @@ http://dmi3y-tv.ru/hls/CH_360TVHD.m3u8
 http://strm.yandex.ru/kal/360tv/360tv0.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",8 канал
 http://dmi3y-tv.ru/hls/CH_8CHANNEL.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",8 Канал (Европа)
-http://dmi3y-tv.ru/hls/CH_8CHANNEL_EUROPE.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",E TV HD
 http://dmi3y-tv.ru/hls/CH_ETVHD.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",TVM Channel
@@ -267,7 +283,6 @@ http://dmi3y-tv.ru/hls/CH_7TV.m3u8
 http://dmi3y-tv.ru/hls/CH_LIFETV_RUS.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Солнце
 http://dmi3y-tv.ru/hls/zabava/CH_DISNEY.m3u8
-http://dmi3y-tv.ru/hls/okko/CH_MULTILANDIYA.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Мультиландия HD
 http://dmi3y-tv.ru/hls/okko/CH_MULTILANDIYAHD.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Мультиландия HD (auto)
