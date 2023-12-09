@@ -287,6 +287,12 @@ http://dmi3y-tv.ru/hls/zabava/CH_DISNEY.m3u8
 http://dmi3y-tv.ru/hls/okko/CH_MULTILANDIYAHD.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Мультиландия HD (auto)
 http://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Nickelodeon
+http://europe3.livetv.az/russia/nickelodeon/playlist.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Nickelodeon HD
+http://45.144.31.195:8026/playlist.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Cartoon Network
+http://94.232.104.237:8000/play/032/index.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",СТС Kids
 http://dmi3y-tv.ru/hls/okko/CH_STSKIDS.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",СТС Kids HD
