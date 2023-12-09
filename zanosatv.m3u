@@ -525,8 +525,6 @@ http://bl.uma.media/live/317805/HLS/4614144_3/2/1/playlist.m3u8
 http://ucdn.beetv.kz:80/btv/live/hls/000000078.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ",Дом кино
 http://ucdn.beetv.kz:80/btv/live/hls/000000050.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ",Дом кино ПРЕМИУМ
-http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy84NGZhNGYxOS0zYjhmLTRhOTQtOTgzMC03N2M5Njc2NWNhN2Ivc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ",Дом кино ПРЕМИУМ HD
 http://ucdn.beetv.kz:80/btv/live/hls/000002943.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ",ЕВРОКИНО
