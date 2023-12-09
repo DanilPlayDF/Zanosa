@@ -91,8 +91,8 @@ http://dmi3y-tv.ru/hls/CH_REDBULLTV.m3u8
 http://dmi3y-tv.ru/hls/CH_REDBULLTVHD.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ",АВТО24
 http://dmi3y-tv.ru/hls/CH_AVTO24.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love
-http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love (okko)
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP PREMIERE
 http://dmi3y-tv.ru/hls/okko/CH_ViPPREMIERE.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP PREMIERE HD
